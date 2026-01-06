@@ -10,7 +10,7 @@ const Footer = () => {
             <p>
                 &copy; 2025 IIT_ACADEMY Platform. All rights reserved. <br />
              <p style={{ marginTop: "5px" }}>
-  Made By ❤️ <a href="https://www.linkedin.com/in/prem-kumar-52357a320/">Prem Kumar</a>
+  Made By ❤️ <a href="https://www.linkedin.com/in/harsh-motiramani-1877232a8/">Harsh Motiramani</a>
 </p>
 
             </p>
