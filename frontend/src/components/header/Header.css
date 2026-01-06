@@ -1,0 +1,57 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+    position: relative;
+   
+ background-color: black;
+    .logo {
+  font-size: 32px;
+   @media (max-width: 768px){
+            font-size: 18px;
+        }
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  letter-spacing: 1.5px;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.logo span {
+  text-shadow: 0 0 4px currentColor;
+}
+
+/* Darker green shades */
+.g1  { color: #00ff00; }  /* Neon Green */
+.g2  { color: #32cd32; }  /* Lime Green */
+.g3  { color: #7fff00; }  /* Chartreuse */
+.g4  { color: #adff2f; }  /* Green Yellow (for underscore) */
+.g5  { color: #66ff66; }  /* Light Green */
+.g6  { color: #2e8b57; }  /* Sea Green */
+.g7  { color: #00fa9a; }  /* Medium Spring Green */
+.g8  { color: #228b22; }  /* Forest Green */
+.g9  { color: #00ff7f; }  /* Spring Green */
+.g10 { color: #3cb371; }  /* Medium Sea Green */
+.g11 { color: #006400; }  /* Dark Green */
+
+.link{
+    display: flex;
+    gap:2rem;
+   
+    @media(max-width:768px){
+        gap:0.5rem;
+    }
+    a{
+        text-decoration: none;
+         color:  #0FBC7A;
+        transition: 0.3s;
+        &:hover{
+            color:#725CAD;
+        }
+    }
+}
+}
+
