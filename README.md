@@ -32,7 +32,12 @@ Open the frontend and explore:
 - Testimonials section
 - Footer with links and contact info
 
-(Place screenshots or a demo link here when available.)
+![WhatsApp Image 2026-01-06 at 22 19 10](https://github.com/user-attachments/assets/c15baa17-323c-4b03-9f2b-807407601b41)
+![WhatsApp Image 2026-01-06 at 22 19 28](https://github.com/user-attachments/assets/fc55d0c8-3f37-4cbf-ae73-fd9994da69f6)
+![WhatsApp Image 2026-01-06 at 22 19 33](https://github.com/user-attachments/assets/a506300a-22a2-489e-b1d0-860d409a5f06)
+
+
+
 
 ---
 
